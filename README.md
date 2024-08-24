@@ -11,6 +11,7 @@ Estas instruções ajudam a obter uma cópia do projeto em operação localmente
 ### 📋 Pré-requisitos
 
 Certifique-se de ter o Java JDK instalado.
+IDE (INTELLIJ, ECLIPSE, NETBEANS)
 ```
 
 ### 🔧 Instalação
